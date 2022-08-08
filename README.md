@@ -1,4 +1,4 @@
-# pool_and_barcode_csv
+# pool_and_barcode
 
 Input: pooling calculator csv output
 
